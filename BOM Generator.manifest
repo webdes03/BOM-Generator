@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"61c717d0-edfb-4a4d-a64c-6674b9d4742b",
+	"author":	"Michael Greene (mike-greene.com)",
+	"description":	{
+		"":	"Export bill of materials as CSV"
+	},
+	"version":	"0.0.1",
+	"runOnStartup":	false,
+	"supportedOS":	"windows",
+	"editEnabled":	true
+}
